@@ -1,0 +1,2 @@
+# card
+Static card page
